@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://morricdxl.github.io/sitemap.xml 
+Sitemap: http://morric.github.io/sitemap.xml 
