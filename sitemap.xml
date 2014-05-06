@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://morricdxl.github.io/aboutme/</loc>
+        <loc>http://morricdxl.github.com/aboutme/</loc>
         <lastmod>2014-05-06T12:40:52+08:00</lastmod>
     </url>
     <url>
-        <loc>http://morricdxl.github.io/blog/archives/</loc>
+        <loc>http://morricdxl.github.com/blog/archives/</loc>
         <lastmod>2014-05-06T11:45:09+08:00</lastmod>
     </url>
     <url>
-        <loc>http://morricdxl.github.io/</loc>
+        <loc>http://morricdxl.github.com/</loc>
         <lastmod>2014-05-06T12:06:39+08:00</lastmod>
     </url>
     <url>
-        <loc>http://morricdxl.github.io/robots.txt</loc>
+        <loc>http://morricdxl.github.com/robots.txt</loc>
         <lastmod>2014-05-06T11:35:22+08:00</lastmod>
     </url>
 </urlset>
